@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /digital-marketing-strategy.html
+Allow: /marketing-consultancy.html
+Allow: /paid-search-advertising.html
+Allow: /seo.html
+Allow: /services.html
+Allow: /social-media-management.html
+Allow: /web-design-development.html
+Allow: /cookies-policy.pdf
+Allow: /privacy-policy.pdf
+Allow: /termsandconditions.pdf
+ 
+Sitemap: https://www.vasavedigital.com/sitemap.xml
